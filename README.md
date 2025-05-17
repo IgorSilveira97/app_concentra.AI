@@ -1,4 +1,4 @@
-📱 Concentra.AI - Seu Assistente Inteligente para um Uso Consciente do Celular
+<h1>📱 Concentra.AI - Seu Assistente Inteligente para um Uso Consciente do Celular</h1>
 
 ✨ Descrição
 Cansado de sentir que o celular controla o seu tempo? O Concentra.AI é um projeto inovador desenvolvido em Python no Google Colab para te ajudar a retomar o controle e cultivar um relacionamento mais saudável com o seu dispositivo.
