@@ -2,6 +2,9 @@
 
   *IMPORTANTE: EXECUTE TODO O CÓDIGO ANTES DE USAR*
 
+  ![Opera Instantâneo_2025-05-17_194421_colab research google com](https://github.com/user-attachments/assets/3b5120be-ccd4-43fe-9907-d98baf0767e0)
+
+
    <h2>✨ Descrição</h2>
     <p>Cansado de sentir que o celular controla o seu tempo? O <strong>Concentra.AI</strong> é um projeto inovador desenvolvido em Python no Google Colab para te ajudar a retomar o controle e cultivar um relacionamento mais saudável com o seu dispositivo.</p>
     <p>Através de uma abordagem inteligente e personalizada, o Concentra.AI utiliza uma arquitetura de múltiplos agentes de IA para fornecer insights valiosos e estratégias práticas para reduzir o seu tempo de tela e focar no que realmente importa.</p>
